@@ -56,5 +56,15 @@ Visio Optique Cc Leclerc quart Champs, 07200 Saint Etienne de Fontbellon
 * HTML <img src="image/html-5.png" width="14" height="14" />   
 * CSS <img src="image/css-3.png" width="14" height="14" />  
 * JavaScript <img src="image/js.png" width="14" height="14" />  
-* PHP  <img src="image/php.png" width="20" height="20" />  
+* PHP  <img src="image/php.png" width="20" height="20" /> 
+
+<br>
+
+**<div align="center"><font color=#008080>Centre  d'interets</font></div>**  
+
+-----------------------------------------------------------------
+* Vélo   
+* Running  
+* Movie 
+* Travel  
  
