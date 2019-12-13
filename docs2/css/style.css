@@ -1,0 +1,209 @@
+body {
+    margin: 0%;
+}
+header{
+    background-image: url(https://www.dreamyachtcharter.com/wp-content/uploads/2019/08/blog_best-beaches-in-tahiti_07052019-blog.jpg);
+    height: 1000px;
+}
+
+li {
+    margin:2em;
+   
+}
+
+a {
+    text-decoration: none; color: white;
+}
+a:hover{
+    transition: 0.4s;
+    font-size: 120%;
+    color: white;
+}
+
+#myName{
+    margin:0px;
+    color: white;
+    margin-left: 17%;
+    padding-top: 2%;
+}
+
+ul {
+    list-style-type: none;
+    color: honeydew;
+    font: bold;
+    /* z-index: 1;
+    position: absolute;
+    background-position: absolute;
+    display: inline-flex; */
+    margin: 0%;
+    margin-top: 0;
+    margin-right: 12%;   
+}
+
+#image {
+    border-radius: 50%;
+    height: 240px;
+    width: 240px;
+    padding: 240px;
+    margin: -200px;
+    border: 15px solid transparent;
+    z-index: 1;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+#image:hover{
+    -webkit-filter: grayscale(100%);
+}
+
+table {
+    margin:1em;
+    table-layout: fixed;
+    width: 98%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    z-index:1;
+}
+
+body {
+    background-color:white;
+}
+
+.interet {
+    flex: 0 1 50%;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    margin-bottom: 80px;
+    display: inline-block;
+    
+}
+.interet img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px #555;
+    
+}
+
+.lang {
+    flex: 0 1 50%;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.lang img {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px #555;
+    display: inline-block;
+} 
+
+.center{
+    text-align: center;
+}
+
+#enjoy {
+    color:#000000;
+}
+
+#lang {
+    color: #000000;
+}
+
+#form {
+    color: #000000;
+}
+
+#exp {
+    color: #000000;
+}
+
+.exp{
+    display: flex;
+    flex-flow: row wrap;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.exp-info{
+    display: flex;
+    flex-flow: column wrap;
+}
+.exp-logo{
+    flex: 0 0 25%;
+    max-width: 100px;
+}
+.exp-info{
+    flex: 0 0 70%;
+    margin-left: auto;
+}
+.exp img{
+    width: 100%;
+}
+.exp h3{
+    font-size:  1.2em;
+}
+.exp h4{
+    font-size:  1em;
+    font-weight: normal;
+}
+
+#movie{
+    float: left;
+}
+#travel{
+    float: right
+}
+
+#lang {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#enjoy {
+    text-align: center;
+    margin-top: 5%;
+}
+
+footer {
+    background-color: rgb(102, 102, 102);
+    text-align: center;
+    color: rgb(199, 199, 199);
+
+}
+
+thead{
+    background-color: #000000;
+}
+
+td{
+    padding: 1em;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+#date {
+    color:rgb(228, 228, 228);
+}
+
+h2{
+    text-align: center;
+    
+}
+
+#exp{
+    margin-bottom: 3%;
+}
+
+#h21{
+    margin-bottom: 5%;
+}
